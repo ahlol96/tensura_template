@@ -1,0 +1,9 @@
+{
+  "tensura_template.skill.template_intrinsic_skill": "Template Intrinsic Skill",
+  "tensura_template.skill.template_intrinsic_skill.description": "Template Intrinsic Skill Description",
+  "tensura_template.skill.template_extra_skill": "Template Extra Skill",
+  "tensura_template.skill.template_extra_skill.description": "Template Extra Skill Description",
+  "tensura_template.skill.template_unique_skill": "Template Unique Skill",
+  "tensura_template.skill.template_unique_skill.description": "Template Unique Skill Description",
+  "tensura_template.skill.mode.default": "Default"
+}

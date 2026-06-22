@@ -9,7 +9,7 @@ import net.minecraft.resources.ResourceLocation;
 import java.util.function.Supplier;
 
 public class TemplateExtraSkills {
-   public static final RegistrySupplier<TemplateExtraSkill> DEADLYPOISON = register("deadly_poison", TemplateExtraSkill::new);
+   public static final RegistrySupplier<TemplateExtraSkill> DEADLYPOISON = register("template_extra_skill", TemplateExtraSkill::new);
 
    public TemplateExtraSkills() {
    }
